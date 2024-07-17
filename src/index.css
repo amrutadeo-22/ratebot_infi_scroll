@@ -1,0 +1,15 @@
+body {
+    display: grid;
+    min-block-size: 90vh;
+    place-content: center;
+    font-family: system-ui;
+    font-size: 1.125rem;
+    background-color: var(--clr-primary-800);
+
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
